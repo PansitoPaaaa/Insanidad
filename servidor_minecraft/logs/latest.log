@@ -71,3 +71,8 @@ java.io.FileNotFoundException: whitelist.json (No such file or directory)
 [19:19:40] [Server thread/INFO]: PansitoPa joined the game
 [19:23:55] [Server thread/INFO]: PansitoPa has just earned the achievement [Taking Inventory]
 [19:27:41] [Server thread/INFO]: PansitoPa has just earned the achievement [Getting Wood]
+[19:49:30] [Server thread/INFO]: Opped PansitoPa
+[19:49:57] [Server thread/INFO]: [PansitoPa: Teleported PansitoPa to 80.5,70.5,45.5]
+[19:49:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2610ms behind, skipping 52 tick(s)
+[19:58:02] [Server thread/INFO]: PansitoPa lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:58:02] [Server thread/INFO]: PansitoPa left the game
